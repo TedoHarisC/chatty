@@ -1,6 +1,6 @@
 # chatty
 
-A new Flutter project.
+A Slicing UI Practice Chat UI Apps (Chatty). From pixels BWA website.
 
 ## Getting Started
 
