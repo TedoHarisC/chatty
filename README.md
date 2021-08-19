@@ -16,6 +16,9 @@ Star⭐ the repo if you like.
 ## Author(s)
 **Tedo Haris Chandra**
 
+# Special Thanks to : 
+[BuildWithAngga](https://buildwithangga.com/) for Courses and [Pixel Build With Angga](https://pixel.buildwithangga.com/) for the UI Resources.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
