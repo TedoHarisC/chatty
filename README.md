@@ -14,7 +14,7 @@ Star⭐ the repo if you like.
 |<img src="ss/2.png" width="200">|<img src="ss/3.png" width="200">|
 
 ## Author(s)
-**Tedo Haris Chandra**[![Instagram Follow]](https://instagram.com/dooooo.dev)
+**Tedo Haris Chandra** ([Follow my Instagram](https://instagram.com/dooooo.dev))
 
 ## Special Thanks to : 
 [BuildWithAngga](https://buildwithangga.com/) for Courses and [Pixel Build With Angga](https://pixel.buildwithangga.com/) for the UI Resources.
